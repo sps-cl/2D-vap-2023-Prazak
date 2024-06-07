@@ -1,0 +1,14 @@
+D:\Ukoly VAP\Konzolova_aplikace1\Konzolova_aplikace1\bin\Debug\net8.0\Konzolova_aplikace1.exe
+D:\Ukoly VAP\Konzolova_aplikace1\Konzolova_aplikace1\bin\Debug\net8.0\Konzolova_aplikace1.deps.json
+D:\Ukoly VAP\Konzolova_aplikace1\Konzolova_aplikace1\bin\Debug\net8.0\Konzolova_aplikace1.runtimeconfig.json
+D:\Ukoly VAP\Konzolova_aplikace1\Konzolova_aplikace1\bin\Debug\net8.0\Konzolova_aplikace1.dll
+D:\Ukoly VAP\Konzolova_aplikace1\Konzolova_aplikace1\bin\Debug\net8.0\Konzolova_aplikace1.pdb
+D:\Ukoly VAP\Konzolova_aplikace1\Konzolova_aplikace1\obj\Debug\net8.0\Konzolova_aplikace1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ukoly VAP\Konzolova_aplikace1\Konzolova_aplikace1\obj\Debug\net8.0\Konzolova_aplikace1.AssemblyInfoInputs.cache
+D:\Ukoly VAP\Konzolova_aplikace1\Konzolova_aplikace1\obj\Debug\net8.0\Konzolova_aplikace1.AssemblyInfo.cs
+D:\Ukoly VAP\Konzolova_aplikace1\Konzolova_aplikace1\obj\Debug\net8.0\Konzolova_aplikace1.csproj.CoreCompileInputs.cache
+D:\Ukoly VAP\Konzolova_aplikace1\Konzolova_aplikace1\obj\Debug\net8.0\Konzolova_aplikace1.dll
+D:\Ukoly VAP\Konzolova_aplikace1\Konzolova_aplikace1\obj\Debug\net8.0\refint\Konzolova_aplikace1.dll
+D:\Ukoly VAP\Konzolova_aplikace1\Konzolova_aplikace1\obj\Debug\net8.0\Konzolova_aplikace1.pdb
+D:\Ukoly VAP\Konzolova_aplikace1\Konzolova_aplikace1\obj\Debug\net8.0\Konzolova_aplikace1.genruntimeconfig.cache
+D:\Ukoly VAP\Konzolova_aplikace1\Konzolova_aplikace1\obj\Debug\net8.0\ref\Konzolova_aplikace1.dll

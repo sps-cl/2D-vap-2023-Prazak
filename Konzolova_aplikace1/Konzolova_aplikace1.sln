@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Konzolova_aplikace1", "Konzolova_aplikace1\Konzolova_aplikace1.csproj", "{7DA2799B-B98A-47AC-99B1-9FEF59E4A703}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DA2799B-B98A-47AC-99B1-9FEF59E4A703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DA2799B-B98A-47AC-99B1-9FEF59E4A703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DA2799B-B98A-47AC-99B1-9FEF59E4A703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DA2799B-B98A-47AC-99B1-9FEF59E4A703}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2B453FC-B5A9-4F6A-AD78-3987D56ACA3D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Konzolova_aplikace1/1.0.0": {
+        "runtime": {
+          "Konzolova_aplikace1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Konzolova_aplikace1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
